@@ -1,0 +1,18 @@
+/* 
+  TypeLocalisation.strings
+  Skyline Editor X
+
+  Created by Thomas Abplanalp on 10.04.17.
+  Copyright © 2017 TASoft Applications. All rights reserved.
+*/
+
+"int" = "Integer";
+"null" = "NULL";
+"bool" = "Boolean";
+"float" = "Float";
+"string" = "String";
+"array" = "Array";
+"hash" = "Dictionary";
+"object" = "Object";
+"resource" = "Resource";
+"uninitialized" = "Uninitialized";
